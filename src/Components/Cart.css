@@ -1,0 +1,25 @@
+.cart{
+  position: fixed;
+  top: 5rem;
+  right: 5rem;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #219ebc;
+  color: #fff;
+  font-size: 2.5rem;
+  cursor: pointer;
+}
+.cart__circle{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+}

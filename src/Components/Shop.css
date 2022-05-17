@@ -1,0 +1,4 @@
+.shop{
+  min-height: calc(100vh - 70px - 60px);
+  padding: 1rem 0;
+}
